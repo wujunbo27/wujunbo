@@ -1,0 +1,39 @@
+﻿生成启动时间为 2018/1/19 17:53:13。
+     1>项目“D:\wai_gua_workspace\DLL_template\DLL_template\DLL_template.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“D:\wai_gua_workspace\DLL_template\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\DLL_template.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\program_file\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\DLL_template.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\program_file\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\DLL_template.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DLL_template.cpp
+         DLL_template.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\DLL_template.res" DLL_template.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\DLL_template.dll.embed.manifest.res" Debug\DLL_template_manifest.rc 
+       Link:
+         D:\program_file\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\wai_gua_workspace\DLL_template\Debug\DLL_template.dll" /INCREMENTAL /NOLOGO /DEF:".\DLL_template.def" /MANIFEST /ManifestFile:"Debug\DLL_template.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\wai_gua_workspace\DLL_template\Debug\DLL_template.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\wai_gua_workspace\DLL_template\Debug\DLL_template.lib" /MACHINE:X86 /DLL Debug\DLL_template.res
+         Debug\DLL_template.dll.embed.manifest.res
+         Debug\DLL_template.obj
+         Debug\stdafx.obj
+            正在创建库 D:\wai_gua_workspace\DLL_template\Debug\DLL_template.lib 和对象 D:\wai_gua_workspace\DLL_template\Debug\DLL_template.exp
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\DLL_template.dll.embed.manifest" /manifest Debug\DLL_template.dll.intermediate.manifest D:\program_file\vs2010\VC\Include\Manifest\dpiaware.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\DLL_template.dll.embed.manifest.res" Debug\DLL_template_manifest.rc 
+       LinkEmbedManifest:
+         D:\program_file\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\wai_gua_workspace\DLL_template\Debug\DLL_template.dll" /INCREMENTAL /NOLOGO /DEF:".\DLL_template.def" /MANIFEST /ManifestFile:"Debug\DLL_template.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\wai_gua_workspace\DLL_template\Debug\DLL_template.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\wai_gua_workspace\DLL_template\Debug\DLL_template.lib" /MACHINE:X86 /DLL Debug\DLL_template.res
+         Debug\DLL_template.dll.embed.manifest.res
+         Debug\DLL_template.obj
+         Debug\stdafx.obj
+            正在创建库 D:\wai_gua_workspace\DLL_template\Debug\DLL_template.lib 和对象 D:\wai_gua_workspace\DLL_template\Debug\DLL_template.exp
+         DLL_template.vcxproj -> D:\wai_gua_workspace\DLL_template\Debug\DLL_template.dll
+       FinalizeBuildStatus:
+         正在删除文件“Debug\DLL_template.unsuccessfulbuild”。
+         正在对“Debug\DLL_template.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\wai_gua_workspace\DLL_template\DLL_template\DLL_template.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:21.05

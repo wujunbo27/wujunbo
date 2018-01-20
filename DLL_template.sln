@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLL_template", "DLL_template\DLL_template.vcxproj", "{EAB90EFE-D9E7-4845-A346-0A4D4C6490AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB90EFE-D9E7-4845-A346-0A4D4C6490AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EAB90EFE-D9E7-4845-A346-0A4D4C6490AC}.Debug|Win32.Build.0 = Debug|Win32
+		{EAB90EFE-D9E7-4845-A346-0A4D4C6490AC}.Release|Win32.ActiveCfg = Release|Win32
+		{EAB90EFE-D9E7-4845-A346-0A4D4C6490AC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
